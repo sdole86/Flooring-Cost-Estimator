@@ -1,0 +1,14 @@
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.csproj.AssemblyReference.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.GeneratedMSBuildEditorConfig.editorconfig
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.AssemblyInfoInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.AssemblyInfo.cs
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.csproj.CoreCompileInputs.cache
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\bin\Debug\netcoreapp3.1\Flooring Cost Estimator.exe
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\bin\Debug\netcoreapp3.1\Flooring Cost Estimator.deps.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\bin\Debug\netcoreapp3.1\Flooring Cost Estimator.runtimeconfig.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\bin\Debug\netcoreapp3.1\Flooring Cost Estimator.runtimeconfig.dev.json
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\bin\Debug\netcoreapp3.1\Flooring Cost Estimator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\bin\Debug\netcoreapp3.1\Flooring Cost Estimator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.dll
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.pdb
+P:\School\2021-03 Fall\CSCI 1630 - Introduction to C# Programming\Unit B\Flooring Cost Estimator\obj\Debug\netcoreapp3.1\Flooring Cost Estimator.genruntimeconfig.cache

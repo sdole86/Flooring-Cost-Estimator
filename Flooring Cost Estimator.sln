@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flooring Cost Estimator", "Flooring Cost Estimator.csproj", "{38538B34-2278-4E42-8659-31A57EB0C11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38538B34-2278-4E42-8659-31A57EB0C11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38538B34-2278-4E42-8659-31A57EB0C11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38538B34-2278-4E42-8659-31A57EB0C11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38538B34-2278-4E42-8659-31A57EB0C11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD55F89-713D-4315-AD43-732B3449700E}
+	EndGlobalSection
+EndGlobal

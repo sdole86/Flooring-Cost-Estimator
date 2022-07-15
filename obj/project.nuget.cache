@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LnUAjxAYDQzG1RLFeZFtga13cP3AWAKLtsjzINbD7gYsWwowXHg06KUVRHy36aB5pwXYuxCEb9F8rzHeIzM3A==",
+  "success": true,
+  "projectFilePath": "P:\\School\\2021-03 Fall\\CSCI 1630 - Introduction to C# Programming\\Unit B\\Flooring Cost Estimator\\Flooring Cost Estimator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dole05\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
